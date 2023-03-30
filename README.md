@@ -1,5 +1,5 @@
 # Clocky - An Overlay Clock Widget
-Clocky is a dead simple clock application developed using Python and Tkinter. I created it to have an overlay clock widget on my computer that displays the current time so I don't lose sight of it. It displays the current time in hours, minutes, and seconds with an AM/PM indicator. The clock updates itself every second and is positioned at the top-right corner of the screen as an overlay widget.
+Clocky is a dead simple clock application developed using Python and Tkinter. I created it to have an overlay clock widget on my computer that displays the current time so I don't lose track of it. It displays the current time in hours, minutes, and seconds with an AM/PM indicator. The clock updates itself every second and is positioned at the top-right corner of the screen as an overlay widget.
 
 ## Requirements
 Clocky requires Python 3.x and the Tkinter module to be installed. If you don't have Python or Tkinter installed, you can download the pre-built Windows executable file (`Clocky.exe`) from the [latest release](https://github.com/spignelon/Clocky/releases/latest) and use it standalone without installing anything else.
