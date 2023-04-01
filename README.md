@@ -21,4 +21,5 @@ The latest release of Clocky includes a pre-built Windows executable file (`Cloc
 If you want to contribute to this project, feel free to submit a pull request.
 
 ## License
-Clocky is licensed under the [MIT License](https://github.com/spignelon/Clocky/blob/main/LICENSE).
+[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+Clocky is licensed under the [GNU General Public License v3.0](https://github.com/spignelon/Clocky/blob/main/LICENSE).
